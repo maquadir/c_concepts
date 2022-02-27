@@ -1,2 +1,2 @@
-# c_concepts
-Programming in C
+# modern c_concepts
+Programming in Modern C
